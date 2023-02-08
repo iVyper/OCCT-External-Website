@@ -1,0 +1,81 @@
+body {
+	margin: 0px;
+	margin-bottom: 50px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: #4997d0;
+  color: #fff;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0 20px;
+  font-size: 16px;
+  line-height: 50px;
+}
+
+a:hover { 
+  background-color: white;
+  color: #4997d0;
+}
+
+section {
+  padding: 50px;
+}
+
+footer {
+  background-color: #4997d0;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.page {
+  display: none;
+  position: absolute;
+  top: 50px;
+  bottom: 50px;
+  left: 0;
+  right: 0;
+}
+
+.page.active {
+  display: block;
+}
+
+.busbanner {
+	display: inline-block;
+	width: auto;
+	
+}
+
+.bluesection {
+	margin-top: 5px;
+	display: flex;
+	padding: 100px;
+	height: auto;
+	background-color: #edebeb;
+	color: black;
+	font-size: 24px;
+}
