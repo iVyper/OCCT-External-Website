@@ -55,5 +55,6 @@ footer p {
 }
 
 .homeBusPhoto {
+	display: flex;
 	width: auto;
 }
