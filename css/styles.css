@@ -49,11 +49,11 @@ footer p {
 
 .lgsection {
 	height: 5px;
-    width: auto;
+    width: 100%;
     background-color: #edebeb;
 }
 
 .homeBusPhoto {
 	display: flex;
-	width: auto;
+	width: 100%;
 }
