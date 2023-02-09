@@ -30,10 +30,6 @@ a:hover {
   color: #4997d0;
 }
 
-section {
-  padding: 50px;
-}
-
 footer {
   background-color: #4997d0;
   color: #fff;
@@ -51,31 +47,4 @@ footer p {
   font-size: 16px;
 }
 
-.page {
-  display: none;
-  position: absolute;
-  top: 50px;
-  bottom: 50px;
-  left: 0;
-  right: 0;
-}
 
-.page.active {
-  display: block;
-}
-
-.busbanner {
-	display: inline-block;
-	width: auto;
-	
-}
-
-.bluesection {
-	margin-top: 5px;
-	display: flex;
-	padding: 100px;
-	height: auto;
-	background-color: #edebeb;
-	color: black;
-	font-size: 24px;
-}
