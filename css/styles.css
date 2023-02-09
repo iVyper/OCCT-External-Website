@@ -13,7 +13,7 @@ body {
   color: #fff;
   position: sticky;
   top: 0;
-  width: 100%;
+  width: auto;
   z-index: 1;
 }
 
@@ -39,7 +39,7 @@ footer {
   height: 50px;
   position: fixed;
   bottom: 0;
-  width: 100%;
+  width: auto;
 }
 
 footer p {
@@ -55,6 +55,5 @@ footer p {
 }
 
 .homeBusPhoto {
-	display: flex;
-	width: 100%;
+	width: auto;
 }
