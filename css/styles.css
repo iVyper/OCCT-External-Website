@@ -48,7 +48,8 @@ footer p {
 }
 
 .lgsection {
-        height: 5px;
+	margin-top: 50px;
+		height: 5px;
         width: auto;
         background-color: gray;
       }
