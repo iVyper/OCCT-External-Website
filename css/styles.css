@@ -49,12 +49,12 @@ footer p {
 
 .lgsection {
 	margin-top: 50px;
-		height: 5px;
-        width: auto;
-        background-color: #edebeb;
-      }
+	height: 5px;
+    width: auto;
+    background-color: #edebeb;
+}
 
 .homeBusPhoto {
+	display: flex;
 	width: 100%;
-
 }
