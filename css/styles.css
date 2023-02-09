@@ -13,7 +13,7 @@ body {
   color: #fff;
   position: sticky;
   top: 0;
-  width: auto;
+  width: 100%;
   z-index: 1;
 }
 
@@ -39,7 +39,7 @@ footer {
   height: 50px;
   position: fixed;
   bottom: 0;
-  width: auto;
+  width: 100%;
 }
 
 footer p {
