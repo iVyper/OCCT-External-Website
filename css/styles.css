@@ -47,4 +47,9 @@ footer p {
   font-size: 16px;
 }
 
+.lgsection {
+        height: 5px;
+        width: auto;
+        background-color: gray;
+      }
 
